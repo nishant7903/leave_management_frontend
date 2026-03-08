@@ -1,4 +1,4 @@
-# Simple Leave Management System - Frontend
+# Leave Management System
 
 This is the frontend application for the Simple Leave Management System, built with **Vue 3**, **Vite**, and **Tailwind CSS**. It provides a clean, responsive, and user-friendly interface for employees to manage their leave requests and for administrators to review them.
 
