@@ -21,7 +21,7 @@ const handleLogout = () => {
       <div class="flex justify-between h-16 items-center">
         <!-- Logo/Home Link -->
         <div class="flex-shrink-0 flex items-center">
-          <router-link to="/dashboard" class="text-xl font-bold tracking-wider">LeaveMgr</router-link>
+          <router-link to="/dashboard" class="text-xl font-bold tracking-wider">LMS</router-link>
         </div>
 
         <!-- Desktop Navigation -->
